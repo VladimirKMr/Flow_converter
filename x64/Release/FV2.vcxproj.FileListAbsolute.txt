@@ -1,0 +1,2 @@
+D:\CODE\FirstApp\Flow velocity2\FV2\x64\Release\FV2.exe
+D:\CODE\FirstApp\Flow velocity3\FV2\x64\Release\FV2.exe
