@@ -1,11 +1,11 @@
 
-### WinAPI windowed application, input parameters - calculated output data.
+### Оконное (WinAPI) приложение, предназначенное для расчета скорости потока рабочей среды в трубопроводах.
 
-- ### FV2.sln - project file Visual Studio 2022
+- ```FV2.sln``` - файл проекта Visual Studio 2022
 
-- ### FV2.cpp - main cpp file
+- ```FV2.cpp``` - main файл с основной логикой
 
-- ### /x64/Release/FV2.exe - actual .exe app
+- ```/x64/Release/FV2.exe``` - собранный исполняемый файл под windows 7 - 11
 
-### Main window:
+### Вид программы:
 <img src="https://raw.githubusercontent.com/VladimirKMr/Flow_converter/main/screenshots/main.png"/>
